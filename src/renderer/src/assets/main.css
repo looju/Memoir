@@ -1,0 +1,29 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@layer base {
+  #root {
+    @apply h-full;
+  }
+}
+
+html,
+body {
+  @apply h-full;
+  @apply select-none;
+  @apply bg-transparent;
+  @apply overflow-hidden;
+  @apply font-sans antialiased text-white;
+}
+
+::-webkit-scrollbar {
+  @apply w-2;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-[#555] rounded-md;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
