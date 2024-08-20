@@ -9,7 +9,7 @@ An Electron application with React, TypeScript, Jotai, Tailwind
 ## Project Setup
 
 ### Install
-Run the command below in order tot generate the node modules of the project
+Run the command below in order to generate the node modules of the project
 
 ```bash
 $ npm install
