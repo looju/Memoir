@@ -1,6 +1,6 @@
-# react
+# Memoir
 
-An Electron application with React and TypeScript
+An Electron application with React, TypeScript, Jotai, Tailwind
 
 ## Recommended IDE Setup
 
@@ -23,12 +23,12 @@ $ npm run dev
 ### Build
 
 ```bash
-# For windows
+# Build For Windows
 $ npm run build:win
 
-# For macOS
+# Build For MacOS
 $ npm run build:mac
 
-# For Linux
+# Build For Linux
 $ npm run build:linux
 ```
