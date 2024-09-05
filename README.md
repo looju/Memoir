@@ -34,7 +34,7 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
-###Gallery
+### Gallery
 
 <div>
 <img src="https://github.com/user-attachments/assets/e2a16f83-6261-412b-a9bb-d6a8a7265106" width="400"/> <img src="https://github.com/user-attachments/assets/a357029d-697a-461c-b5a5-426c8fac8da1" width="400" />  
